@@ -142,6 +142,7 @@ You can use following SQL statements for example.
 - daehee87@kaist.ac.kr
 - zzoru@kaist.ac.kr
 - dinggul@kaist.ac.kr
+- yunjong@kaist.ac.kr
 
 
 ### Academic Reference
