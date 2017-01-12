@@ -147,7 +147,7 @@ You can use following SQL statements for example.
 ### Academic Reference
 
 KAIST CysecLab (Graduate School of Information Security, School of Computing)
-Advisor (Prof. B. Kang)
+Advisor (Prof. Brent ByungHoon Kang <brentkang@kaist.ac.kr>)
 
 
 ### Visit http://codemap.kr for more details.
